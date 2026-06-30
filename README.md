@@ -5,15 +5,15 @@
 
 BBIT graduate from South Eastern Kenya University. I build SOC and DFIR skills through hands-on labs in network forensics, log analysis, and threat hunting — and document every investigation like a real incident report, not a step-by-step tutorial.
 
-🛡️ Focused on: SOC operations, packet analysis, log forensics, threat actor profiling
-📝 Every writeup follows the same structure an analyst would use on the job — context, investigation, root cause, lessons
-🎯 Actively seeking SOC Analyst L1 opportunities
-📫 Reach me: [LinkedIn](#). https://www.linkedin.com/in/djibrilgathoni/ 
+Focused on: SOC operations, packet analysis, log forensics, threat actor profiling
+Every writeup follows the same structure an analyst would use on the job — context, investigation, root cause, lessons
+Actively seeking SOC Analyst L1 opportunities
+Reach me: [LinkedIn](#): https://www.linkedin.com/in/djibrilgathoni/  
 
 
 ---
 
-### 🔍 Featured Labs
+### Featured Labs
 
 | Lab | What it covers |
 |---|---|
