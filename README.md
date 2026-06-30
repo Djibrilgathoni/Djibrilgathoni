@@ -8,7 +8,7 @@ BBIT graduate from South Eastern Kenya University. I build SOC and DFIR skills t
 Focused on: SOC operations, packet analysis, log forensics, threat actor profiling
 Every writeup follows the same structure an analyst would use on the job — context, investigation, root cause, lessons
 Actively seeking SOC Analyst L1 opportunities
-Reach me: [LinkedIn](#): https://www.linkedin.com/in/djibrilgathoni/  
+ Reach me: LinkedIn · ndungudjibril@gmail.com
 
 
 ---
