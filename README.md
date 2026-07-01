@@ -1,7 +1,7 @@
 
 ## Hi there, I'm Djibril 👋
 
-**SOC Analyst L1 | CEH Certified | Threat Hunter in training**
+**SOC Analyst L1 | CEH | Threat Hunter in training**
 
 BBIT graduate from South Eastern Kenya University. I build SOC and DFIR skills through hands-on labs in network forensics, log analysis, and threat hunting — and document every investigation like a real incident report, not a step-by-step tutorial.
 
